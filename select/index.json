@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "醜い生き物",
+  "base_artist": "CHiCO with HoneyWorks",
+  "createdAt": "2026-03-18T06:41:51.221066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "醜い生き物",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/01_醜い生き物_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "醜い生き物",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_醜い生き物_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "醜い生き物",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/03_醜い生き物_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "醜い生き物",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_醜い生き物_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "醜い生き物 (Instrumental)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_醜い生き物_(Instrumental)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "醜い生き物 (Instrumental)",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_醜い生き物_(Instrumental)_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "醜い生き物 - Minikui ikimono",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_醜い生き物_-_Minikui_ikimono_CHiCO_with_HoneyWorks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "醜い生き物",
+      "artist": "CHiCO with HoneyWorks",
+      "has_synced": false,
+      "path": "select/pl_01_醜い生き物_CHiCO_with_HoneyWorks.txt"
+    }
+  ]
+}
